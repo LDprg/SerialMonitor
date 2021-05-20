@@ -3,6 +3,8 @@
 bin/
 bin-int/
 
+!vendor/bin/*
+
 # Files
 *.user
 *.filters
