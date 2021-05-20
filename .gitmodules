@@ -1,9 +1,9 @@
 [submodule "imgui"]
 	path = imgui
 	url = https://github.com/TheCherno/imgui
-[submodule "glfw"]
-	path = gflw
-	url = https://github.com/TheCherno/glfw
 [submodule "implot"]
 	path = implot
 	url = https://github.com/epezent/implot
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/TheCherno/glfw
